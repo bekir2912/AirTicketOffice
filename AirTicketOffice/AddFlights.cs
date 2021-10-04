@@ -13,7 +13,8 @@ namespace AirTicketOffice
     public partial class AddFlights : Form
     {
         public AddFlights()
-        {
+        { 
+        
             InitializeComponent();
             comboBox1.SelectedIndex = 0;
         }
